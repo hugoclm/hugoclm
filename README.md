@@ -36,6 +36,6 @@ I am a future AI Engineer specializing in Machine Learning and NLP. I focus on s
 ---
 
 ## 📫 Connect with me
-- 💼 **LinkedIn:** [Hugo CLEMENT](www.linkedin.com/in/hugo-clément-356100247)
+- 💼 **LinkedIn:** [Hugo CLEMENT](https://www.linkedin.com/in/hugo-cl%C3%A9ment-356100247/)
 - 📧 **Email:** hugoclement29@gmail.com
 - 📍 **Location:** Paris 
