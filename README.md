@@ -26,7 +26,7 @@ I am a future AI Engineer specializing in Machine Learning and NLP. I focus on s
 *February 2025*
 - Designed, trained, and evaluated Deep Learning models for retinal image analysis.
 - Integrated the models into a web application for automated screening.
-- *Check out the repository here:* **[OcularRecognAItion](./OcularRecognAItion)**
+- *Check out the repository here:* **[OcularRecognAItion](https://github.com/hugoclm/OcularRecognAItion)**
 
 ### 💬 NLP Chatbot & Language Processing
 *June 2024*
